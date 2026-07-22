@@ -1,3 +1,5 @@
+streamlit #application development and deployment
+
 # Utilities
 numpy
 pandas
@@ -13,8 +15,6 @@ bcrypt #hashing and authentication
 
 segno #qr code 
 pillow #image processing
-
-streamlit #application development and deployment
 
 librosa #audio processing
 resemblyzer #voice cloning
